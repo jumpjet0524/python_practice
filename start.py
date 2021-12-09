@@ -1,0 +1,17 @@
+print("hello")
+#數字
+print("1322")
+print("12.333")
+#字串
+print("詹育嘉")
+#布林值
+print(True)
+print(False)
+#list
+print([3,4,5])
+#tuple
+print(("詹","育","嘉"))
+#set
+print({8,5,9})
+#dictionary({"key":值})
+print({"apple":"pen"})
